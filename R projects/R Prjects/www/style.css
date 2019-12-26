@@ -26,7 +26,7 @@
 }
 
 #shiny-tab-adsInformation {
-  background-color: #343434;
+  background-color: rgb(41,41,41);
 }
 
 #Users, #Sessions, #PageViews, #NewUsers {
@@ -91,6 +91,7 @@ h3.box-title {
 #shiny-tab-adsInformation > div:nth-child(2), #shiny-tab-audience > div > div.row {
   display: flex !important;
   flex-flow: row wrap !important;
+  margin-top: 5em;
 }
 
 #conversion, #clicks, #ctr, #conversionRate, #costConver, #cost, #avgCostPerClick {
@@ -107,13 +108,13 @@ h3.box-title {
 
 
 #conversion > div > div > h3, #clicks > div > div > h3, #ctr > div > div > h3, #conversionRate > div > div > h3, #costConver > div > div > h3, #cost > div > div > h3, #cost > div > div > h3, #avgCostPerClick > div > div > h3 {
-  font-size: 1.5em;
+  font-size: 2em;
   font-family: Roboto !important;
   color: #d9d9d9;
 }
 
 #conversion > div > div > p, #clicks > div > div > p, #ctr > div > div > p, #conversionRate > div > div > p, #costConver > div > div > p, #cost > div > div > p, #avgCostPerClick > div > div > p {
-  font-size: 0.9em;
+  font-size: 1em;
   color: #d9d9d9;
   font-family: Roboto;
 }
