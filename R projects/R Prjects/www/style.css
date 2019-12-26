@@ -1,0 +1,130 @@
+@import url("http://fonts.googleapis.com/css?family=Roboto");
+
+.wrapper .main-sidebar{
+  background-color: #ecf0f5 !important;
+}
+
+.wrapper {
+   background-color: #ecf0f5 !important;
+}
+
+.navbar.navbar-static-top {
+  background-color: #006064 !important;
+}
+
+.skin-blue .main-header .logo {
+  background-color: #006064 !important;
+}
+
+.skin-blue .sidebar-menu>li>a{
+  color: #4d9093;
+  font-family: Roboto !important;
+  font-size: 14px;
+}
+.box{
+  border: 0;
+}
+
+#shiny-tab-adsInformation {
+  background-color: #343434;
+}
+
+#Users, #Sessions, #PageViews, #NewUsers {
+  width: 18em;
+  margin-left: 6em;
+  text-align: center;
+}
+
+ #Users > div > div, #Sessions > div > div, #PageViews > div > div, #NewUsers > div > div {
+  background-color: #FFF;
+  color: #006064;
+  border-radius: 3px;
+}
+
+#Users > div > div > h3, #Sessions > div > div > h3, #PageViews > div > div > h3, #NewUsers > div > div > h3 {
+  font-size: 2em;
+  font-family: Roboto !important;
+  color: #006064;
+}
+
+#Users > div > div > p, #Sessions > div > div > p, #PageViews > div > div > p, #NewUsers > div > div > p {
+  font-size: 1.2em;
+  color: #006064;
+  font-family: Roboto;
+}
+.bg-aqua{
+  background-color: transparent !important;
+}
+.box {
+  background: transparent;
+}
+
+div.modebar-group {
+  opacity: 0 !important;
+}
+
+h3.box-title {
+  font-size: 28px;
+  color: #4d9093;
+  font-family: Roboto !important;
+}
+#shiny-tab-adsInformation > h2, #shiny-tab-adsInformation > div:nth-child(4) > h2  {
+  font-family: Roboto;
+  font-size: 26px;
+  color: #FFF;
+  text-align: center;
+ 
+}
+#shiny-tab-adsInformation > h2{
+  margin-bottom: 30px;
+  background-color: #507899;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#shiny-tab-adsInformation > div:nth-child(4) > p {
+  font-size: 20px;
+  color: #FFF;
+  text-align: center;
+  font-family: Roboto;
+}
+
+#shiny-tab-adsInformation > div:nth-child(2), #shiny-tab-audience > div > div.row {
+  display: flex !important;
+  flex-flow: row wrap !important;
+}
+
+#conversion, #clicks, #ctr, #conversionRate, #costConver, #cost, #avgCostPerClick {
+  width: 12em;
+  margin-left: 5em;
+  text-align: center;
+}
+
+#conversion > div > div, #clicks > div > div, #ctr > div > div, #conversionRate > div > div, #costConver > div > div, #cost > div > div, #avgCostPerClick > div > div {
+  background-color: #415769 !important;
+  color: #d9d9d9 !important;
+  border-radius: 3px;
+}
+
+
+#conversion > div > div > h3, #clicks > div > div > h3, #ctr > div > div > h3, #conversionRate > div > div > h3, #costConver > div > div > h3, #cost > div > div > h3, #cost > div > div > h3, #avgCostPerClick > div > div > h3 {
+  font-size: 1.5em;
+  font-family: Roboto !important;
+  color: #d9d9d9;
+}
+
+#conversion > div > div > p, #clicks > div > div > p, #ctr > div > div > p, #conversionRate > div > div > p, #costConver > div > div > p, #cost > div > div > p, #avgCostPerClick > div > div > p {
+  font-size: 0.9em;
+  color: #d9d9d9;
+  font-family: Roboto;
+}
+#shiny-tab-adsInformation > div:nth-child(3) > div > div > div {
+  border-top: 0;
+}
+#clicksCTR, #convRate, #costClick {
+  border-radius: 3px;
+}
+
+#shiny-tab-adsInformation > div:nth-child(3), #shiny-tab-adsInformation > div:nth-child(4) {
+  margin-left: 5px;
+  margin-right: 5px;
+}
